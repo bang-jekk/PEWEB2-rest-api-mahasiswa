@@ -2,11 +2,11 @@
 
 ## Identitas Mahasiswa
 
-**Nama:** Zainuddin Muhammad Zakiy
-**NIM:** 23552011173
-**Mata Kuliah:** Pemrograman Web 2
-**Tugas:** Basic REST API Express.js
-**Universitas:** Universitas Teknologi Bandung
+* **Nama:** Zainuddin Muhammad Zakiy
+* **NIM:** 23552011173
+* **Mata Kuliah:** Pemrograman Web 2
+* **Tugas:** Basic REST API Express.js
+* **Universitas:** Universitas Teknologi Bandung
 
 ---
 ## Preview API
@@ -235,6 +235,6 @@ API ini mampu melakukan operasi dasar **CRUD (Create, Read, Update, Delete)** te
 
 ## Author
 
-**Zainuddin Muhammad Zakiy**
-Universitas Teknologi Bandung
-Pemrograman Web 2
+* **Zainuddin Muhammad Zakiy**
+* Universitas Teknologi Bandung
+* Pemrograman Web 2
