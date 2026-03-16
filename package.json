@@ -1,0 +1,16 @@
+{
+  "name": "rest-api-mahasiswa",
+  "version": "1.0.0",
+  "description": "Tugas Basic REST API Express.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
